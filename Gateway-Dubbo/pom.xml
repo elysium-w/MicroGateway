@@ -8,10 +8,6 @@
     </parent>
 
     <artifactId>Gateway-Dubbo</artifactId>
-    <packaging>jar</packaging>
-
-    <name>Gateway-Dubbo</name>
-    <url>http://maven.apache.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

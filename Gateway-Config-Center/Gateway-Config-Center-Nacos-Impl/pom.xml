@@ -9,10 +9,7 @@
     </parent>
 
     <artifactId>Gateway-Config-Center-Nacos-Impl</artifactId>
-    <packaging>jar</packaging>
 
-    <name>Gateway-Config-Center-Nacos-Api</name>
-    <url>https://maven.apache.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
